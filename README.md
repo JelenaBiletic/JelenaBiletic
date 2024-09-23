@@ -1,5 +1,5 @@
 # 👋 Welcome!
-## I'm Jelena Biletic, Data Analyst🕵️‍♀️
+## I'm Jelena Biletic, Data Analyst 📊🔍
 <img align="right" alt="Coding" width="550" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 ### 🔍 About Me:
